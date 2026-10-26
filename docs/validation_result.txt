@@ -1,0 +1,30 @@
+{
+    "tmsId": "",
+    "success": true/false,
+    "issues": {
+        "title": [
+                {
+                    "tmsId": "",
+                    "failed_rule": "",
+                    "correction_suggestion": ""
+                },
+                {
+                    "tmsId": "",
+                    "failed_rule": "",
+                    "correction_suggestion": ""
+                }
+            ],
+        "genre": [
+            {
+                "tmsId": "",
+                "failed_rule": "",
+                "correction_suggestion": ""
+            },
+            {
+                "tmsId": "",
+                "failed_rule": "",
+                "correction_suggestion": ""
+            }
+        ]
+    }
+}
